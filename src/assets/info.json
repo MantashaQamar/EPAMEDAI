@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Kristin Watson",
+    "role": "Certified personal yoga trainer",
+    "description": "A Yoga Expert decicated to crafting personalized workout plans that align with your goals.",
+    "image": "src/assets/coach1.jpg",
+    "rating": 4.96,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Wade Warren",
+    "role": "Climbing Coach",
+    "description": "Scale new challaenges with our Climbing Coach. Get instruction to improve climbing skills, and build confidence on the wall.",
+    "image": "src/assets/coach2.jpg",
+    "rating": 4.8,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Cameron Williamson",
+    "role": "Strength Coach",
+    "description": "Achieve peak performance with our Strength Coach, a specialist in building muscle and increasing power.",
+    "image": "src/assets/coach3.jpg",
+    "rating": 5.0,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Jenny Wilson",
+    "role": "Certified personal yoga trainer",
+    "description": "A Yoga Expert dedicated to crafting personalized workout plans that align with your goals.",
+    "image": "src/assets/coach4.jpg",
+    "rating": 5.0,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Jacob Jones",
+    "role": "Climbing Coach",
+    "description": "Scale new challaenges with our Climbing Coach. Get instruction to improve climbing skills, and build confidence on the wall.",
+    "image": "src/assets/coach5.jpg",
+    "rating": 4.6,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Guy Hawkins",
+    "role": "Functional Fitness Trainer",
+    "description": "Transform your fitness with out Functional Fitness Trainer, who focuses on excercises that mimic real-life movements.",
+    "image": "src/assets/coach6.jpg",
+    "rating": 4.89,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Brooklyn Simmons",
+    "role": "Strength Coach",
+    "description": "Achieve peak performance with our Strength Coach, a specialist in building muscle and increasing power.",
+    "image": "src/assets/coach7.jpg",
+    "rating": 5.0,
+    "buttonText": "Book Workout"
+  },
+  {
+    "name": "Bessie Cooper",
+    "role": "Functional Fitness Trainer",
+    "description": "Transform your fitness with out Functional Fitness Trainer, who focuses on excercises that mimic real-life movements.",
+    "image": "src/assets/coach8.jpg",
+    "rating": 4.97,
+    "buttonText": "Book Workout"
+  }
+]
